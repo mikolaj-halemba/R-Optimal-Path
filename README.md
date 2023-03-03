@@ -5,9 +5,9 @@
 
 ## Screenshots
 #### MAP 1
-![Map-1](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/Map1.jpeg)
+![Map-1](https://github.com/mikolaj-halemba/R-Optimal-Path/blob/main/images/Map1.jpeg)
 #### MAP 2
-![Map-2](https://github.com/mikolaj-halemba/R-Shiny-App/blob/main/images/Map2.jpeg)
+![Map-2](https://github.com/mikolaj-halemba/R-Optimal-Path/blob/main/images/Map2.jpeg)
 
 ## Built With
 
