@@ -1,6 +1,6 @@
 <h1 align="center">R optimal path</h1>
 
-<p align="center"> Finding the optimal path from the maps created.</p>
+<p align="center"> Finding the optimal path from the created maps.</p>
 
 
 ## Screenshots
